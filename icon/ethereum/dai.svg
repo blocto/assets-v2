@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <path id="fuevjcppga" d="M0 0H22V22H0z"/>
+        <path id="pes386nd9c" d="M2.397.5h6.896c4.196 0 7.376 2.248 8.559 5.519H20v1.977h-1.696c.033.312.05.63.05.954v.049c0 .364-.021.722-.063 1.072H20v1.977h-2.19c-1.213 3.226-4.369 5.452-8.517 5.452H2.397v-5.452H0v-1.977h2.397V7.996H0V6.019h2.397V.5zm1.928 11.548v3.678h4.968c3.067 0 5.345-1.473 6.405-3.678H4.325zm11.964-1.977H4.325V7.996h11.967c.044.326.067.661.067 1.003v.048c0 .35-.024.691-.07 1.024zm-6.996-7.8c3.08 0 5.366 1.512 6.42 3.748H4.325V2.27h4.968z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-134 -14) translate(134 14)">
+                <mask id="ki0ukhhpcb" fill="#fff">
+                    <use xlink:href="#fuevjcppga"/>
+                </mask>
+                <g mask="url(#ki0ukhhpcb)">
+                    <g transform="translate(1 2)">
+                        <mask id="8et7923cpd" fill="#fff">
+                            <use xlink:href="#pes386nd9c"/>
+                        </mask>
+                        <use fill="#FFF" xlink:href="#pes386nd9c"/>
+                        <g mask="url(#8et7923cpd)">
+                            <path d="M0 0H22V22H0z" transform="translate(-1 -2)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
