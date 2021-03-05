@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <path id="rved8kzrva" d="M11.25 15.304v4.95H6.302v-4.95h4.948zm6.096-6.818v4.95H6.302v-4.95h11.044zm-12.099 0v4.95H.3v-4.95h4.947zM21.592 1.7v4.951H6.302V1.7h15.29z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-17 -84) translate(17 84)">
+                <use fill="#FFF" xlink:href="#rved8kzrva"/>
+            </g>
+        </g>
+    </g>
+</svg>
