@@ -1,15 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
+  <g fill="#FFF" fill-rule="evenodd">
     <path id="ic_wallet_22_fusdt-a" d="M11,0 C17.07508,0 22,4.9247 22,11 C22,17.07508 17.07508,22 11,22 C4.92492,22 0,17.07508 0,11 C0,4.9247 4.92492,0 11,0 Z M18.04,6.6 L11.88,6.6 C11.39402,6.6 11,6.99402 11,7.48 C11,7.96598 10.60598,8.36 10.12,8.36 L10.12,8.36 L3.96,8.36 L3.96,15.4 L10.12,15.4 C10.60598,15.4 11,15.00598 11,14.52 C11,14.0338 11.39402,13.64 11.88,13.64 L11.88,13.64 L18.04,13.64 L18.04,6.6 Z M11.000132,8.80341 L13.196612,10.99989 L11.000132,13.19659 L8.803652,10.99989 L11.000132,8.80341 Z"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <rect width="22" height="22"/>
-    <mask id="ic_wallet_22_fusdt-b" fill="#fff">
-      <use xlink:href="#ic_wallet_22_fusdt-a"/>
-    </mask>
-    <use fill="#FFF" xlink:href="#ic_wallet_22_fusdt-a"/>
-    <g mask="url(#ic_wallet_22_fusdt-b)">
-      <rect width="22" height="22"/>
-    </g>
   </g>
 </svg>
