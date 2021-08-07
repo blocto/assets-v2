@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
-    <path id="ic_wallet_22_ethereum-a" d="M15,12.4845095 L7.49774706,22 L0,12.4845095 L7.49774706,16.4739661 L15,12.4845095 Z M7.4977998,0 L14.9954297,11.2040812 L7.49774706,15.1954323 L0,11.2040443 L7.4977998,0 Z"/>
-  </defs>
-  <use fill="#FFF" transform="translate(4)" xlink:href="#ic_wallet_22_ethereum-a"/>
+  <g fill="#FFF">
+    <path d="M15,12.4845095 L7.49774706,22 L0,12.4845095 L7.49774706,16.4739661 L15,12.4845095 Z M7.4977998,0 L14.9954297,11.2040812 L7.49774706,15.1954323 L0,11.2040443 L7.4977998,0 Z" transform="translate(4)"/>
+  </g>
 </svg>
